@@ -20,6 +20,7 @@ blog_crew/
   workflow.py
 crewai_blog_crew.py
 README.md
+requirements.txt
 ```
 
 ## Setup
@@ -30,7 +31,7 @@ README.md
    ```
 2. **Install dependencies:**
    ```bash
-   pip install crewai langchain_openai
+   pip install -r requirements.txt
    ```
 3. **Set your OpenAI API key:**
    ```bash
